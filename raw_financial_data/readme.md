@@ -1,6 +1,6 @@
 # Raw Financial Data
 
-This folder contains the raw financial data from each company which is publicly available from the financial statements / investor relations site respectively.
+This folder contains the publicly available raw financial data from each companies financial statements / investor relations site respectively.
 
 ## Links to raw data
 
