@@ -1,6 +1,6 @@
 <h1 align="center"> Open-Reinsurance-Database </h1>
 
-This repository is an open source project called <ins>**open-reinsurance-database**</ins>. Everybody who is interested can contribute to it and/ or use the data under the stated license. The main aim is to
+This repository is an open source project called <ins>**open-reinsurance-database**</ins>. Every interested person is invited to contribute and everybody can use the data under the stated license. The main aim is to
 
  - increase benefit for all due to no costs
  - share effort of data ingestion
