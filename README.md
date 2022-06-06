@@ -1,24 +1,24 @@
-<h1 align="center"> Open-Reinsurance-Database </h1>
+<h1 align="center"> Reinsurance-data </h1>
 
-This repository is an open source project called <ins>**open-reinsurance-database**</ins>. Every interested person is invited to contribute and everybody can use the data under the stated license. In case of any questions respecting any issue or if you want to know more about how to contribute, feel free to cantact me: lukasbelka.dev(at)gmail(dot)com
+This repository is an open source project and every interested person is invited to contribute and/or use  <ins>**reinsurance-data**</ins> under the stated license. In case of any questions respecting any issue or if you want to know more on how to contribute, feel free to cantact me: lukasbelka.dev(at)gmail(dot)com
 
-The main of the Open-Reinsurance-Database is to
+The main aim of Reinsurance-Data is to
 
  - increase benefit for all due to no costs
- - share effort of data ingestion
- - share knowledge and thus provide solid insisghts
+ - share effort of data ingestion and cleaning
+ - share knowledge and thus provide solid insights
  
-In a first step all data is based on the annual financial statements released by the reinsurance companies (for details see the [list of companies](#companies) below. The financial statements will be cleaned and transformed in order to provided them in this repository and/or by a small sqllite database.
+In a first step all data is based on the annual financial statements released by the reinsurance companies (for details see the [list of companies](#companies) below. The data is available as (slightly cleaned) raw files and as a clen and transformed version as well in this repository. In case of availability via pdf only, statements are transferred into .csv or .xls format.
 
-Subsquently this will enable all of us to create peer analyses, create financial performance tests, derive insights - for example when it comes to claims paid by the companies or per country et cetera - or to do with the data whatever you can think of.
+Subsquently this will enable users to create peer analyses, create financial performance tests, derive insights - for example when it comes to claims paid by the companies or per country et cetera - or to do with the data whatever you can think of.
 
 <h2>🛣 Roadmap</h2>
 
 Following steps are in progress or planned - feel free to contribute and share your ideas!
 
-- Collection of financial statemens raw data from the companies websites (in progress)
+- Collection of financial statemens as raw data from the companies websites (in progress)
 - Draft data tables/ data models (in progress)
-- Clean and transform the data (planned)
+- Clean and transform the data (ongoing)
 - Provide first minimum viable product (planned)
 
 <h2 id="companies"> 🧐 Which reinsurance companies are in focus?</h2>
