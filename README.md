@@ -27,13 +27,13 @@ Let's start with the top 50 reinsurance companies as stated by the reinsurancene
 
 | Company                                         | Link to financial statements / IR                                                                        |
 |-------------------------------------------------|----------------------------------------------------------------------------------------------------------|
-| Munich Re                                       |                                                                                                          |
-| Swiss Re                                        |                                                                                                          |
+| Munich Re                                       | *[Munich Re - Results and Reports](https://www.munichre.com/en/company/investors/reports-and-presentations/results-reports.html)*                                                                                                         |
+| Swiss Re                                        | *[Swiss Re - Financial Information](https://www.swissre.com/investors/financial-information.html)*                                                                                                         |
 | Hannover Re                                     | *[Hannover Re - Results and Reports](https://www.hannover-re.com/199620/results-and-reports)*            |
-| SCOR                                            | *[Munich Re - Results and Reports](https://www.munichre.com/en/company/investors/reports-and-presentations/results-reports.html)*                                                 |
-| Berkshire Hathaway Inc.                         |                                                                                                          |
-| China Reinsurance (Group) Corporation           |                                                                                                          |
-| Lloyd's                                         |                                                                                                          |
+| SCOR                                            | *[SCOR - Financial Information](https://www.scor.com/en/financial-information)*                          |
+| Berkshire Hathaway Inc.                         | *[Berkshire Hathaway - Reports](https://www.berkshirehathaway.com/reports.html)*                                                                                                     |
+| China Reinsurance (Group) Corporation           | *[Chine Re - Financial Reports](https://eng.chinare.com.cn/zzywwzgb/Investor_Relatuons/index.html)*                                                                                                       |
+| Lloyd's                                         | *[Lloyd's - Financial Results](https://www.lloyds.com/financialresults)*                                                                                                         |
 | Canada Life Re                                  |                                                                                                          |
 | Reinsurance Group of America Inc.               |                                                                                                          |
 | Korean Reinaurnce Company                       |                                                                                                          |
