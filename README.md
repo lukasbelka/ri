@@ -30,7 +30,7 @@ Let's start with the top 50 reinsurance companies as stated by the reinsurancene
 | Munich Re                                       |                                                                                                          |
 | Swiss Re                                        |                                                                                                          |
 | Hannover Re                                     | *[Hannover Re - Results and Reports](https://www.hannover-re.com/199620/results-and-reports)*            |
-| SCOR                                            |                                                                                                          |
+| SCOR                                            | *[Munich Re - Results and Reports](https://www.munichre.com/en/company/investors/reports-and-presentations/results-reports.html)*                                                 |
 | Berkshire Hathaway Inc.                         |                                                                                                          |
 | China Reinsurance (Group) Corporation           |                                                                                                          |
 | Lloyd's                                         |                                                                                                          |
