@@ -1,8 +1,8 @@
-<h1 align="center"> Reinsurance-data </h1>
+<h1 align="center"> Reinsurance Data </h1>
 
 This repository is an open source project and every interested person is invited to contribute and/or use  <ins>**reinsurance-data**</ins> under the stated license. You can fork this repository in order to work with the data. If you want to get a contributor, simply clone the repo and get intouch with me - also in case of any questions feel free to cantact me: lukasbelka.dev(at)gmail(dot)com
 
-The main aim of Reinsurance-Data is to
+The main aim of Reinsurance Data is to
 
  - increase benefit for all due to no cost
  - share effort of data ingestion and cleaning
