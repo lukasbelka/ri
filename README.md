@@ -1,29 +1,33 @@
 <h1 align="center"> Reinsurance-data </h1>
 
-This repository is an open source project and every interested person is invited to contribute and/or use  <ins>**reinsurance-data**</ins> under the stated license. In case of any questions respecting any issue or if you want to know more on how to contribute, feel free to cantact me: lukasbelka.dev(at)gmail(dot)com
+This repository is an open source project and every interested person is invited to contribute and/or use  <ins>**reinsurance-data**</ins> under the stated license. You can fork this repository in order to work with the data. If you want to get a contributor, simply clone the repo and get intouch with me - also in case of any questions feel free to cantact me: lukasbelka.dev(at)gmail(dot)com
 
 The main aim of Reinsurance-Data is to
 
- - increase benefit for all due to no costs
+ - increase benefit for all due to no cost
  - share effort of data ingestion and cleaning
  - share knowledge and thus provide solid insights
  
-In a first step all data is based on the annual financial statements released by the reinsurance companies (for details see the [list of companies](#companies) below. The data is available as (slightly cleaned) raw files and as a clen and transformed version as well in this repository. In case of availability via pdf only, statements are transferred into .csv or .xls format.
+<h2>Content</h2>
 
-Subsquently this will enable users to create peer analyses, create financial performance tests, derive insights - for example when it comes to claims paid by the companies or per country et cetera - or to do with the data whatever you can think of.
+Reinsurance Data is based on the annual financial statements released by the reinsurance companies (for details see the [list of companies](#companies) below. To enable further analysis of all contents a fact table and some dimension tables are created, which is necessary if you want to bild a star schema in your favourite BI-Tool.
+
+Details on the data structure, the initial clean-up and available tables can be found in the DATA-README.md
+
+I hope this will enable you to create peer analyses, financial performance tests and to derive insights - or to do with the data whatever you can think of.
 
 <h2>🛣 Roadmap</h2>
 
 Following steps are in progress or planned - feel free to contribute and share your ideas!
 
 - Collection of financial statemens as raw data from the companies websites (in progress)
-- Draft data tables/ data models (in progress)
-- Clean and transform the data (ongoing)
+- Draft data model tables (in progress)
+- Initial clean-up and transformation of the data (ongoing)
 - Provide first minimum viable product (planned)
 
 <h2 id="companies"> 🧐 Which reinsurance companies are in focus?</h2>
 
-Let's start with the top 50 reinsurance companies as stated by the reinsurancenews. Here I added the link to each companies financial statements or investor relations site.
+Let's start with the top 50 reinsurance companies as stated by reinsurancenews. Here I added the link to each companies financial statements or investor relations site.
 
 | Company                                         | Link to financial statements / IR                                                                        |
 |-------------------------------------------------|----------------------------------------------------------------------------------------------------------|
