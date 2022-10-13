@@ -1,6 +1,6 @@
 <h1 align="center"> Reinsurance Data </h1>
 
-!!! Collaborators wanted !!! This <ins>**reinsurance-data**</ins> repository is an open source project and published under the MIT license, which means that you can download the data for free or fork this repository and work with the data. If you want to contribute or in case of any questions feel free to cantact me: lukasbelka(dot)dev(at)gmail(dot)com
+<span style="color: red;">!!! Collaborators wanted!!!</span> This <ins>**reinsurance-data**</ins> repository is an open source project and published under the MIT license, which means that you can download the data for free or fork this repository and work with the data. If you want to contribute or in case of any questions feel free to cantact me: lukasbelka(dot)dev(at)gmail(dot)com
 
 The main aim of Reinsurance Data is to
 
