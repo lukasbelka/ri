@@ -1,17 +1,16 @@
 <h1 align="center"> Reinsurance Data </h1>
 
-This repository is an open source project and every interested person is invited to contribute and/or use  <ins>**reinsurance-data**</ins> under the stated license. You can fork this repository in order to work with the data. If you want to get a contributor, simply clone the repo and get intouch with me - also in case of any questions feel free to cantact me: lukasbelka.dev(at)gmail(dot)com
+<span style="color: red;">!!! Collaborators wanted!!!</span> This <ins>**reinsurance-data**</ins> repository is an open source project and published under the MIT license, which means that you can download the data for free or fork this repository and work with the data. If you want to contribute or in case of any questions feel free to cantact me: lukasbelka(dot)dev(at)gmail(dot)com
 
 The main aim of Reinsurance Data is to
 
- - increase benefit for all due to no cost
- - share effort of data ingestion and cleaning
- - share knowledge and thus provide solid insights
+ - share effort of data ingestion and cleaning and thus
+ - increase benefit for all
+ - share knowledge and provide solid insights
  
 <h2>Content</h2>
 
-Reinsurance Data is based on the annual financial statements released by the reinsurance companies (for details see the [list of companies](#companies) below. To enable further analysis of all contents a fact table and some dimension tables are created, which is necessary if you want to bild a star schema in your favourite BI-Tool.
-
+Reinsurance Data is based on the annual financial statements released by the reinsurance companies.
 Details on the data structure, the initial clean-up and available tables can be found in the DATA-README.md
 
 I hope this will enable you to create peer analyses, financial performance tests and to derive insights - or to do with the data whatever you can think of.
@@ -23,7 +22,6 @@ Following steps are in progress or planned - feel free to contribute and share y
 - Collection of financial statemens as raw data from the companies websites (in progress)
 - Draft data model tables (in progress)
 - Initial clean-up and transformation of the data (ongoing)
-- Provide first minimum viable product (planned)
 
 <h2 id="companies"> 🧐 Which reinsurance companies are in focus?</h2>
 
