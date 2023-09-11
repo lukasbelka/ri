@@ -1,31 +1,10 @@
 <h1 align="center"> Reinsurance Data </h1>
 
-<span style="color: red;">!!! Collaborators wanted!!!</span> This <ins>**reinsurance-data**</ins> repository is an open source project and published under the MIT license, which means that you can download the data for free or fork this repository and work with the data. If you want to contribute or in case of any questions feel free to cantact me: lukasbelka(dot)dev(at)gmail(dot)com
+<span style="color: red;">!!! Collaborators wanted!!!</span> This <ins>**reinsurance-data**</ins> repository is open source and an ongoin project.
 
-The main aim of Reinsurance Data is to
+<h2 id="companies"> 🧐 The top 15 reinsurance companies </h2>
 
- - share effort of data ingestion and cleaning and thus
- - increase benefit for all
- - share knowledge and provide solid insights
- 
-<h2>Content</h2>
-
-Reinsurance Data is based on the annual financial statements released by the reinsurance companies.
-Details on the data structure, the initial clean-up and available tables can be found in the DATA-README.md
-
-I hope this will enable you to create peer analyses, financial performance tests and to derive insights - or to do with the data whatever you can think of.
-
-<h2>🛣 Roadmap</h2>
-
-Following steps are in progress or planned - feel free to contribute and share your ideas!
-
-- Collection of financial statemens as raw data from the companies websites (in progress)
-- Draft data model tables (in progress)
-- Initial clean-up and transformation of the data (ongoing)
-
-<h2 id="companies"> 🧐 Which reinsurance companies are in focus?</h2>
-
-Let's start with the top 50 reinsurance companies as stated by reinsurancenews. Here I added the link to each companies financial statements or investor relations site.
+Here I added the link to each companies financial statements or investor relations site.
 
 | Company                                         | Link to financial statements / IR                                                                        |
 |-------------------------------------------------|----------------------------------------------------------------------------------------------------------|
@@ -43,42 +22,7 @@ Let's start with the top 50 reinsurance companies as stated by reinsurancenews. 
 | Partner Re Ltd.                                 | *[Partner Re - Annual Reports](https://www.partnerre.com/financial-information/annual-reports/)*                                                                                                         |
 | General Insurance Corporation of India          | *[GIC - Financials](https://www.gicofindia.com/en/investors-public-disclosures/financials/balance-sheet-2020-21)*                                                                                                         |
 | RenaissanceRe Holdings Ltd.                     | *[Renaissance Re - Reports and filings](https://investor.renre.com/sec-filings)*                                                                                                         |
-| AXA XL                                          | *[AXA - Publications](https://www.axa.com/en/press/publications)*                                                                                                         |
-| Transatlantic Holdings, Inc.                    |                                                                                                          |
-| Arch Capital Group Ltd.                         |                                                                                                          |
-| MS&AD Insurance Group Holdungs, Inc.            |                                                                                                          |
-| Assicurazioni Generali SpA                      |                                                                                                          |
-| R+V Versicherung AG                             |                                                                                                          |
-| Maprfe RE, Compania de Reaseguros S.A.          |                                                                                                          |
-| Sompo International Holdings, Ltd.              |                                                                                                          |
-| The Toa Reinsurance Company, Limited            |                                                                                                          |
-| Axis Capital Holdings Limited                   |                                                                                                          |
-| Validus Reinsurance, Ltd.                       |                                                                                                          |
-| Caisse Centrale de Reassurance                  |                                                                                                          |
-| Pacific Life Corp                               |                                                                                                          |
-| Odyssey Re holdings Corp.                       |                                                                                                          |
-| Taiping Reinsurance Co. Ltd.                    |                                                                                                          |
-| Peak Reinsurance Company Ltd.                   |                                                                                                          |
-| IRB - Brasil Reasseguros S.A.                   |                                                                                                          |
-| SiriusPoint Ltd.                                |                                                                                                          |
-| Aspen Insurance Holdings Limited                |                                                                                                          |
-| Qianhai Reinsurance Co., Ltd.                   |                                                                                                          |
-| Deutsche Rückversicherung AG                    |                                                                                                          |
-| QBE Insurance Group Limited                     |                                                                                                          |
-| Tokio Millennium Re AG                          |                                                                                                          |
-| American Agricultural Insurance Company         |                                                                                                          |
-| Markel Corporation                              |                                                                                                          |
-| Allied World Assurance Comapny Holdings, AG     |                                                                                                          |
-| Fidelis                                         |                                                                                                          |
-| Chubb Limited                                   |                                                                                                          |
-| Lancashire                                      |                                                                                                          |
-| W.R. Berkley Corporation                        |                                                                                                          |
-| African Reinsurance Corporation                 |                                                                                                          |
-| Nacional de Reaseguros, S.A.                    |                                                                                                          |
-| Hiscox Ltd.                                     |                                                                                                          |
-| DEVK Re                                         |                                                                                                          |
-| Central Reinsurance Corporation                 |                                                                                                          |
-| Qatar Reinsurance Company, Limited              |                                                                                                          |
+| AXA XL                                          | *[AXA - Publications](https://www.axa.com/en/press/publications)*                                          |
 
 
 
